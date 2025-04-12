@@ -47,6 +47,22 @@ Run your build process with npm run dev or whatever command is configured in you
 npm run dev
 ```
 
+### How to setup this project on your local computer
+### 1.Clone
+````bash
+git clone https://github.com/IshChristian/sms-training-project.git
+cd sms-training-project
+````
+### 2.Install
+````bash
+npm install
+````
+### 3.Run
+````bash
+npm run dev
+````
+
+
 For any help all more info
 
 Number: 0791364641 
