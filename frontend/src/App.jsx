@@ -32,7 +32,7 @@ function AuthHandler() {
 
   useEffect(() => {
     const authRouter = () => {
-      if (!Cookie.get('userEmail')) {
+      if (!Cookie.get('email')) {
         navigate('/login')
       }
     }
